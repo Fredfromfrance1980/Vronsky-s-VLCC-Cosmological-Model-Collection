@@ -33,7 +33,7 @@ ainsi que les outils de falsifiabilité.
 
 Licence : CC BY-NC-SA 4.0 International
 
-2. Recueil
+2. Recueil (version GB)
 
 Document antérieur, non-canonique, rédigé durant la phase de construction du modèle.
 Il constitue une archive de genèse et permet de comprendre la trajectoire d’élaboration du VLCC.
@@ -106,7 +106,7 @@ and the related falsifiability criteria.
 
 License: CC BY-NC-SA 4.0 International
 
-2. Recueil
+2. Recueil (English version)
 
 Earlier non-canonical version, written during the developmental phase of the model.
 It must be considered as an archival witness of construction, preserving the conceptual trajectory that led to the canonical Treatise.
