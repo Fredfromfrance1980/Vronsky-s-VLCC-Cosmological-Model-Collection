@@ -1,55 +1,153 @@
-# Vronsky-s-VLCC-Cosmological-Model-Collection
-A speculative cosmological framework without dark matter, based on frozen light, gliding structures, and an active time field. Includes mathematical validation and falsifiability tools. English version of the full VLCC model by Frédérick Vronsky.
-# 🌌 VLCC — A Speculative Cosmological Model of Photonically Differentiated Space-Time
-
-This repository contains the full English version of the **VLCC model** (*Vectors of Light with Curved Cosmology*) developed by **Frédérick Vronsky**.
-
-The VLCC proposes a cosmology without dark matter, based on frozen light zones (Freeze Spheres), differential photonic tensions, and an active temporal field behaving like matter. It envisions the universe as a relational, elastic, and morphogenic structure, shaped by gliding photonic configurations.
-
+# Collection du modèle cosmologique spéculatif VLCC de Vronsky 
+Collection officielle des documents relatifs au modèle cosmologique VLCC, proposant une alternative sans matière noire fondée sur la cohérence photonicotemporelle, les structures glissantes et le temps actif.
+Inclut le traité canonique en français, le recueil développemental ainsi que les outils de cohérence et de falsifiabilité.
 ---
+# Collection of Vronsky's speculative cosmological model VLCC
+Official collection of documents related to the VLCC cosmological model, a dark-matter-free framework based on photonic–temporal coherence, gliding structures, and an active time field.
+Includes the canonical French Treatise, the developmental English Recueil, and the associated coherence and falsifiability tools.
 
-## 📘 Zenodo DOI
+🇫🇷 README — Version Française
+🌌 VLCC — Modèle Cosmologique par Vecteurs de Lumière
 
-🔗 [https://doi.org/10.5281/zenodo.15868796](https://doi.org/10.5281/zenodo.15868796)
+Ce dépôt réunit les principaux documents relatifs au modèle cosmologique VLCC (Vecteurs de Lumière à Courbure Cosmologique), développé par Frédérick Vronsky.
+Le VLCC propose une cosmologie indépendante de la matière noire, fondée sur :
 
----
+la lumière comme révélateur morphogénique,
+le temps comme champ cohérent actif,
+des structures photoniques glissantes,
+et la possibilité de falsification observationnelle.
 
-## 📂 Repository Content
+📘 Documents disponibles
 
-```
-vlcc-model-en/
-├── VLCC_Model_EN.pdf               # Full English version of the speculative recueil
-├── LICENSE                         # Creative Commons BY 4.0 License
-├── README.md                       # Repository overview
-├── annexes/                        # Observational and falsifiability tools
-│   ├── Annex_A_GlowMap.pdf
-│   └── Annex_B_GlowSpheres_FRBs.pdf
-├── evaluation/                     # Comparative evaluation of models
-│   └── VLCC_Score_vs_LCDM_MOND.pdf
-├── glossary/                       # Glossary of technical terms
-│   └── VLCC_Glossary_EN.md
-```
+Le dépôt contient deux documents majeurs :
 
----
+1. Traité Canonique (FR)
 
-## 🔭 Objectives
+Version finale consolidée du cadre VLCC. Elle établit :
+l’ontologie générale,
+la dynamique cosmologique,
+la cohérence photonicotemporelle,
+ainsi que les outils de falsifiabilité.
 
-- To provide a falsifiable alternative to dark matter–based cosmologies
-- To explore light-based architecture of cosmic morphogenesis
-- To integrate time as a physical, differential field
-- To propose observable and testable predictions using Glow Maps and spiral dynamics
+➡ DOI : https://doi.org/10.5281/zenodo.17946156
 
----
+Licence : CC BY-NC-SA 4.0 International
 
-## 🔑 Keywords
+2. Recueil
 
-VLCC, photon cosmology, morphogenetic light, freeze sphere, gliding structures, dark-matter alternative, time field, photonic architecture, falsifiability, speculative cosmology
+Document antérieur, non-canonique, rédigé durant la phase de construction du modèle.
+Il constitue une archive de genèse et permet de comprendre la trajectoire d’élaboration du VLCC.
 
----
+Ce Recueil doit être interprété comme :
 
-## 📜 License
+« un témoin de travail et d’exploration conceptuelle »
+et non comme la formulation finale du modèle.
 
-**Creative Commons Attribution 4.0 International (CC BY 4.0)**  
-You are free to share and adapt the material under the condition of crediting the original author.
+➡ DOI : https://doi.org/10.5281/zenodo.15868796
 
-© Frédérick Vronsky, 2025
+Licence : CC BY 4.0 International
+
+🧭 Statut Conceptuel
+
+Les deux documents ne sont ni équivalents ni interchangeables :
+
+Traité → version canonique, consolidée et aboutie.
+Recueil → archive de construction, antérieure et exploratoire.
+
+Cette distinction est importante pour les lecteurs, chercheurs et citations futures.
+
+🚀 Objectifs du VLCC
+
+Le VLCC vise à :
+
+proposer une cosmologie sans matière noire ajoutée,
+intégrer la lumière comme architecte morphogénique,
+traiter le temps comme champ physique,
+fournir des critères de falsifiabilité observables,
+articuler une cosmologie cohérente et testable.
+
+🔑 Mots-clés
+
+VLCC · cosmologie · photonique · morphogenèse · temps cohérent ·
+falsifiabilité · glissement photonicotemporel · alternative à ΛCDM
+
+📜 Licences
+
+Traité — CC BY-NC-SA 4.0
+Recueil — CC BY 4.0
+
+© Frédérick Vronsky, 2025–2026.
+
+🇬🇧 README — English Version
+🌌 VLCC — Cosmological Model Based on Light Vectors
+
+This repository gathers the primary documents associated with the VLCC cosmological framework (Light Vectors with Curved Cosmology), developed by Frédérick Vronsky.
+The VLCC proposes a cosmology independent from dark matter, based on:
+
+light as a morphogenic revealing field,
+time as an active coherence field,
+gliding photonic structures,
+and explicit falsifiability tools.
+
+📘 Available Documents
+
+The repository includes two major documents:
+
+1. Canonical Treatise (FR)
+
+Final consolidated version of the VLCC framework. It establishes:
+
+the ontological foundations,
+the cosmological dynamics,
+the photonic–temporal coherence,
+and the related falsifiability criteria.
+
+➡ DOI: https://doi.org/10.5281/zenodo.17946156
+
+License: CC BY-NC-SA 4.0 International
+
+2. Recueil
+
+Earlier non-canonical version, written during the developmental phase of the model.
+It must be considered as an archival witness of construction, preserving the conceptual trajectory that led to the canonical Treatise.
+
+It is best interpreted as:
+
+“a working and exploratory document”,
+not as the final formulation of the model.
+
+➡ DOI: https://doi.org/10.5281/zenodo.15868796
+
+License: CC BY 4.0 International
+
+🧭 Conceptual Status
+
+The two documents are not equivalent and should not be interchanged:
+
+Treatise → canonical, consolidated, mature.
+Recueil → developmental archive, exploratory, earlier.
+
+This distinction matters for academic reading, citation and interpretation.
+
+🚀 Objectives of the VLCC
+
+The VLCC aims to:
+
+propose a dark-matter-free cosmology,
+integrate light as a morphogenic architect,
+treat time as a physical coherence field,
+provide explicit falsifiability criteria,
+articulate a coherent and testable cosmology.
+
+🔑 Keywords
+
+VLCC · cosmology · photonics · morphogenesis · coherent time ·
+falsifiability · gliding photonic structures · dark matter alternative
+
+📜 Licenses
+
+Treatise — CC BY-NC-SA 4.0
+
+Recueil — CC BY 4.0
+
+© Frédérick Vronsky, 2025–2026.
