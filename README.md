@@ -71,6 +71,12 @@ Cet article n’introduit aucun nouveau champ fondamental ni modification du lag
 
 ➡ DOI : https://doi.org/10.5281/zenodo.18703033
 
+4.  Section spéciale VLCC – Masse induite par l’environnement temporel et corrections de trajectoires
+
+Ce travail propose une lecture VLCC des géodésiques quantiques
+
+➡ DOI : https://doi.org/10.5281/zenodo.18834154
+
 Licence : CC BY-NC-SA 4.0 International
 
 🧭 Statut Conceptuel
@@ -170,6 +176,12 @@ dark-like cosmological implications without massive dark matter.
 No new fundamental field or modification of the canonical V9 Lagrangian is introduced; the paper clarifies an implicit regime already present in the VLCC structure.
 
 ➡ DOI: https://doi.org/10.5281/zenodo.18703033
+
+4. Special VLCC Section – Time-Induced Mass and Trajectory Corrections
+
+This work proposes a VLCC reading of quantum geodesics.
+
+➡ DOI: https://doi.org/10.5281/zenodo.18834154
 
 License: CC BY-NC-SA 4.0 International
 
